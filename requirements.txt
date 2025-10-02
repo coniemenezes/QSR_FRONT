@@ -1,0 +1,4 @@
+robotframework
+selenium
+robotframework-seleniumlibrary
+python-dotenv
